@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'SaaSeriesADOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesADOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESADOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesBDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesBDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESBDOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesCDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesCDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESCDOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesDDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesDDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESDDOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesEDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesEDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESEDOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesEMDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesEMDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESEMDOT.woff') format('woff');
+}
+@font-face {
+    font-family: 'SaaSeriesFDOT';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SaaSeriesFDOT'), url('/fonts.cdnfonts.com/s/48709/SAASERIESFDOT.woff') format('woff');
+}
+
+

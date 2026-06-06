@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Local dev / editor tooling (not needed for the deployed site)
+.claude/
+
+# Backups created while fixing the asset links
+*.original.html
+*.original.css
